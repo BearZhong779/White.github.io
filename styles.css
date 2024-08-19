@@ -8,7 +8,7 @@ body {
     overflow-x: hidden; /* 防止水平滚动条出现 */
 
  /* 高亮修改部分 */
-    cursor: url('assets/circle-cursor.png'), auto; /* 使用自定义圆形光标图像，自动回退到默认光标 */
+    cursor: url('assets/circle-cursor1.png'), auto; /* 使用自定义圆形光标图像，自动回退到默认光标 */
 }
 
 /* 头部样式 */
