@@ -6,8 +6,6 @@ body {
     background-color: rgba(255, 255, 255, 0.7); /* 设置背景颜色为淡灰色 */
     color: #333; /* 设置文字颜色为深灰色 */
     overflow-x: hidden; /* 防止水平滚动条出现 */
-
- /* 高亮修改部分 */
     cursor: url('assets/circle-cursor1.png'), auto; /* 使用自定义圆形光标图像，自动回退到默认光标 */
 }
 
